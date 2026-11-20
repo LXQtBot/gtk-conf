@@ -6,7 +6,7 @@
     <message>
         <location filename="../../src/DialogMain.ui" line="47"/>
         <source>Themes</source>
-        <translation>Teemad</translation>
+        <translation>Kujundused</translation>
     </message>
     <message>
         <location filename="../../src/DialogMain.ui" line="55"/>

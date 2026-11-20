@@ -71,7 +71,7 @@
     <message>
         <location filename="../../src/DialogMain.ui" line="237"/>
         <source>Default:</source>
-        <translation type="unfinished"></translation>
+        <translation>Padrão:</translation>
     </message>
     <message>
         <location filename="../../src/DialogMain.ui" line="244"/>
@@ -91,7 +91,7 @@
     <message>
         <location filename="../../src/DialogMain.ui" line="304"/>
         <source>Play event sounds as feedback to user input</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduzir sons de eventos como feedback para as ações do usuário</translation>
     </message>
     <message>
         <location filename="../../src/DialogMain.ui" line="320"/>

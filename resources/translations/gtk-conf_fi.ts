@@ -91,7 +91,7 @@
     <message>
         <location filename="../../src/DialogMain.ui" line="304"/>
         <source>Play event sounds as feedback to user input</source>
-        <translation type="unfinished"></translation>
+        <translation>Toista tapahtumaääniä palautteena syötteille</translation>
     </message>
     <message>
         <location filename="../../src/DialogMain.ui" line="320"/>
@@ -116,7 +116,7 @@
     <message>
         <location filename="../../src/DialogMain.ui" line="386"/>
         <source>Primary button warps slider</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pääpainike liikuttaa liukusäädintä</translation>
     </message>
     <message>
         <location filename="../../src/DialogMain.ui" line="430"/>
@@ -126,7 +126,7 @@
     <message>
         <location filename="../../src/DialogMain.ui" line="442"/>
         <source>Max age:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanhenemisikä:</translation>
     </message>
     <message>
         <location filename="../../src/DialogMain.ui" line="480"/>
@@ -277,7 +277,7 @@ Voit ladata uudet asetukset uudelleen painamalla Nollaa-painiketta tai käyttä�
     <message>
         <location filename="../../src/ToolTips.cpp" line="184"/>
         <source>Number of days to remember recently used files for. Recently used files will be remembered for this many days. If set to 0, recent files will not be remembered; if set to -1, they will be retained indefinitely.</source>
-        <translation type="unfinished"></translation>
+        <translation>Montako päivää viimeiset käytetyt tiedostot muistetaan. Arvolla 0, ei muisteta mitään; arvolla -1, historia ei vanhene koskaan.</translation>
     </message>
     <message>
         <location filename="../../src/ToolTips.cpp" line="202"/>
@@ -287,12 +287,12 @@ Voit ladata uudet asetukset uudelleen painamalla Nollaa-painiketta tai käyttä�
     <message>
         <location filename="../../src/ToolTips.cpp" line="209"/>
         <source>The type of hinting to use when rendering fonts. Possible values are: %1 for no hinting and %2 for fitting only to the Y-axis like Microsoft’s ClearType, DirectWrite and Adobe’s proprietary font rendering engine. Ignores native hinting within the font, generates hints algorithmically. Used on Ubuntu by default. Recommended. The meaning of %3 and %4 depends on the font format (.ttf, .otf, .pfa/.pfb) and the installed version of FreeType. They usually try to fit glyphs to both the X and the Y axis (except for .otf: Y-only). This can lead to distortion and/or inconsistent rendering depending on the quality of the font, the font format and the state of FreeType’s font engines.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonttien renderöinnissä käytettävä vihjeistystyyppi. Mahdolliset arvot ovat: %1 ilman vihjeistystä ja %2 vain Y-akselin mukaan vihjeistys, kuten Microsoftin ClearType, DirectWrite ja Adoben oma fonttien renderointimoottori. Ohittaa fontin sisällä olevat alkuperäiset vihjeistykset ja luo vihjeitä algoritmisesti. Käytetään Ubuntussa oletuksena. Suositeltava. %3 ja %4 merkitys riippuu fonttimuodosta (.ttf, .otf, .pfa/.pfb) ja asennetusta FreeType-versiosta. Ne yleensä yrittävät sovittaa kirjaimet sekä X- että Y-akselille (paitsi .otf: vain Y-akselille). Tämä voi johtaa vääristymiin ja/tai epäjohdonmukaiseen renderointiin fontin laadun, fonttimuodon ja FreeTypen fonttimoottoreiden tilan mukaan.</translation>
     </message>
     <message>
         <location filename="../../src/ToolTips.cpp" line="222"/>
         <source>The order of subpixel elements on an LCD screen; only used when anti-aliasing is set to %1. Possible values are: %2 for red on left (most common), %3 for blue on left, %4 for red on top, %5 for red on bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>LCD-näytön alipikselien järjestys; käytetään vain, kun anti-aliasing on asetettu arvoon %1. Mahdolliset arvot ovat: %2 punainen vasemmalla (yleisin), %3 sininen vasemmalla, %4 punainen ylhäällä, %5 punainen alhaalla.</translation>
     </message>
     <message>
         <location filename="../../src/ToolTips.cpp" line="192"/>
@@ -302,12 +302,12 @@ Voit ladata uudet asetukset uudelleen painamalla Nollaa-painiketta tai käyttä�
     <message>
         <location filename="../../src/ToolTips.cpp" line="59"/>
         <source>Whether scrolled windows may use overlaid scrolling indicators. If this is set to %1, scrolled windows will have permanent scrollbars.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voivatko vieritettävät ikkunat käyttää piilottuvia vieritysohjaimia. Jos tämä asetus on %1, vieritettävissä ikkunoissa on pysyvät vierityspalkit.</translation>
     </message>
     <message>
         <location filename="../../src/ToolTips.cpp" line="65"/>
         <source>If the value of this setting is %1, clicking the primary button in a &lt;b&gt;GtkRange&lt;/b&gt; trough will move the slider, and hence set the range’s value, to the point that you clicked. If it is %2, a primary click will cause the slider/value to move by the range’s page-size towards the point clicked. Whichever action you choose for the primary button, the other action will be available by holding &lt;b&gt;Shift&lt;/b&gt; and primary-clicking, or clicking the middle mouse button.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos tämän asetuksen arvo on %1, &lt;b&gt;GtkRange&lt;/b&gt;-kentän ensisijaisen painikkeen napsauttaminen siirtää liukusäädintä ja asettaa siten alueen arvon napsauttamasi kohtaan. Jos se on %2, ensisijainen napsautus siirtää liukusäädintä/arvoa alueen sivukoon verran napsautettua kohtaa kohti. Riippumatta siitä, minkä toiminnon valitset ensisijaiseksi painikkeeksi, toinen toiminto on käytettävissä pitämällä &lt;b&gt;Shift&lt;/b&gt;-näppäintä painettuna ja napsauttamalla ensisijaista painiketta tai napsauttamalla hiiren keskipainiketta.</translation>
     </message>
     <message>
         <location filename="../../src/ToolTips.cpp" line="102"/>
